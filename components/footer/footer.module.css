@@ -1,0 +1,8 @@
+.footer {
+  margin-top: auto;
+}
+
+.footer__container {
+  align-items: flex-start;
+  font-size: var(--fz-200);
+}
